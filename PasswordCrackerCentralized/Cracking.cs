@@ -23,6 +23,7 @@ namespace PasswordCrackerCentralized
             // seems to be same speed
         }
 
+
         /// <summary>
         /// Runs the password cracking algorithm
         /// </summary>
